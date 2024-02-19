@@ -25,6 +25,14 @@ import java.util.List;
 import java.util.Objects;
 
 
+<<<<<<< HEAD
+=======
+/**
+ * @author：luck
+ * @date：2016-7-27 23:02
+ * @describe：GridImageAdapter
+ */
+>>>>>>> ce8e7e8819075194a7b4bcd7273b98c57137903c
 public class GridImageAdapter extends RecyclerView.Adapter<GridImageAdapter.ViewHolder> {
     public static final String TAG = "PictureSelector";
     public static final int TYPE_CAMERA = 1;

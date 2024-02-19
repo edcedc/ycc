@@ -1,7 +1,10 @@
 package com.yyc.xxx.network
 
 import com.google.gson.Gson
+<<<<<<< HEAD
 import com.yyc.xxx.bean.BaseResponseBean
+=======
+>>>>>>> ce8e7e8819075194a7b4bcd7273b98c57137903c
 import okhttp3.Interceptor
 import okhttp3.Response
 import okhttp3.ResponseBody

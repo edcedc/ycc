@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.yyc.xxx.bean
+=======
+package com.yyc.smas.bean
+>>>>>>> ce8e7e8819075194a7b4bcd7273b98c57137903c
 
 import com.yyc.xxx.network.REQUEST_SUCCESS
 import me.hgj.jetpackmvvm.network.BaseResponse

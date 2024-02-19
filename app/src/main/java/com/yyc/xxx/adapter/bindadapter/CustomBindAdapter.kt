@@ -17,7 +17,15 @@ import com.bumptech.glide.request.RequestOptions
 import com.yyc.xxx.weight.preference.MyColorCircleView
 import me.hgj.jetpackmvvm.ext.view.textString
 
+<<<<<<< HEAD
 
+=======
+/**
+ * 作者　: hegaojian
+ * 时间　: 2019/12/23
+ * 描述　: 自定义 BindingAdapter
+ */
+>>>>>>> ce8e7e8819075194a7b4bcd7273b98c57137903c
 object CustomBindAdapter {
 
     @BindingAdapter(value = ["checkChange"])

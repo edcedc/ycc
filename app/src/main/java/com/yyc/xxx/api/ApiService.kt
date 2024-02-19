@@ -1,10 +1,21 @@
 package com.yc.tea.api
 
+<<<<<<< HEAD
 import com.yyc.xxx.bean.BaseResponseBean
+=======
+>>>>>>> ce8e7e8819075194a7b4bcd7273b98c57137903c
 import com.yyc.xxx.bean.DataBean
 import retrofit2.http.*
 
 
+<<<<<<< HEAD
+=======
+/**
+ * Created by xuhao on 2017/11/16.
+ * Api 接口
+ */
+
+>>>>>>> ce8e7e8819075194a7b4bcd7273b98c57137903c
 interface ApiService{
 
     companion object {
@@ -26,6 +37,10 @@ interface ApiService{
         @Field("companyID") companyID: String,
         @Field("loginID") loginID: String,
         @Field("userPwd") userPwd: String
+<<<<<<< HEAD
     ): BaseResponseBean<DataBean>
+=======
+    ): BaseResponseBean<DataBean?>
+>>>>>>> ce8e7e8819075194a7b4bcd7273b98c57137903c
 
 }
